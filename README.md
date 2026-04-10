@@ -25,8 +25,8 @@
 
 | App | Tech | Description |
 |-----|------|-------------|
-| 🎬 [Cinemate App]() | Flutter & Dart | A mobile app to browse and track your favorite movies |
-| 🍽️ [Warung MRB App](https://github.com/devanoahmadd/warungmrb-app) | Kotlin & XML | A digital cashier, menu & stock management app for small food businesses |
+| 🎬 [Cinemate App](https://github.com/devanoahmadd/cinemate-app.git) | Flutter & Dart | A mobile app to browse and track your favorite movies |
+| 🍽️ [Warung MRB App]() | Kotlin & XML | A digital cashier, menu & stock management app for small food businesses |
 
 ---
 
