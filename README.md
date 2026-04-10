@@ -15,6 +15,9 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
@@ -23,7 +26,7 @@
 | App | Tech | Description |
 |-----|------|-------------|
 | 🎬 [Cinemate App]() | Flutter & Dart | A mobile app to browse and track your favorite movies |
-| 🍽️ [Warung Mrb App]() | Kotlin & XML | A digital cashier and menu management app for small food businesses |
+| 🍽️ [Warung MRB App](https://github.com/devanoahmadd/warungmrb-app) | Kotlin & XML | A digital cashier, menu & stock management app for small food businesses |
 
 ---
 
@@ -37,5 +40,5 @@
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanoahmad/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devanoahmad/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devanoahmadd@gmail.com)
