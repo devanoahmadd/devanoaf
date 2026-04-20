@@ -34,6 +34,7 @@
 
 ![Devano's GitHub Stats](https://github-stats-devanoaf.vercel.app/api?username=devanoahmadd&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-stats-devanoaf.vercel.app/api/top-langs/?username=devanoahmadd&layout=compact&theme=tokyonight)
 
 ---
 
